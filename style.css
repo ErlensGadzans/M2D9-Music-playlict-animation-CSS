@@ -1,0 +1,23 @@
+body {
+  background-color: #1b2530;
+}
+
+h2 {
+  color: whitesmoke;
+}
+
+.card {
+  align-items: center;
+}
+
+.card-body {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  padding: 1rem 1.5rem;
+  padding-top: 48px;
+  background: linear-gradient(rgba(27, 37, 48, 0), #1b2530 48px);
+  overflow: hidden;
+  border-bottom-right-radius: 0.25rem;
+  border-bottom-left-radius: 0.25rem;
+  color: white;
+}
